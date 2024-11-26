@@ -1,4 +1,4 @@
-# Niteshinnobitsystems - React Developer Trainee
+# Nitesh Kumar | Innobit Systems - React Developer Trainee
 
 👋 Hi there! I'm Nitesh, a **React Developer Trainee** at **Innobit Systems**. I'm passionate about building interactive web applications and learning new technologies that power the modern web.
 
